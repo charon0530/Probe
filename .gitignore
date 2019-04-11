@@ -5,6 +5,12 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+############
+#Content Assets, 다운받을 수 있는 무료에셋 여기에 등록
+############
+Content/StarterContent/*
+Content/FreeAssetFolder/*
+
 # Compiled Object files
 *.slo
 *.lo
